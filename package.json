@@ -4,7 +4,7 @@
   "author": "Joseph Evans",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A relatively simplistic dependency injection library.",
   "module": "./lib/index.js",
   "main": "./lib/index.js",
