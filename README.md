@@ -1,7 +1,7 @@
 # Logi-DX Injection
 
 The purpose of this library is rather simplistic in the sense that it's designed to simply 
-enable typescript applications to use soe degree of dependency injection through the use 
+enable typescript applications to use some degree of dependency injection through the use 
 of a series of decorators. 
 
 ## Inject 
